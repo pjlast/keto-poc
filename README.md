@@ -31,7 +31,7 @@ You can start Keto with an in-memory database by running
 
 ## Run the Go code
 
-After cloning this repository you should be able to run it:
+After cloning this repository you should be able to run it. Run these commands in THIS cloned repo (not the keto repo you cloned above):
 
 ```
 go mod download
